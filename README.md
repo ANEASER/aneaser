@@ -19,4 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneaser&show_icons=true&locale=en&layout=compact" alt="aneaser" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneaser&show_icons=true&locale=en" alt="aneaser" /></p>
-[![@aneaser's Holopin board](https://holopin.me/aneaser)](https://holopin.io/@aneaser)
+(https://holopin.me/aneaser)](https://holopin.io/@aneaser)
