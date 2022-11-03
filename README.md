@@ -1,4 +1,4 @@
-
+<div id="div1" style="background-color:white;color:black;">
 
 - 🌱 I’m currently learning **react-native**
 
@@ -19,4 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneaser&show_icons=true&locale=en&layout=compact" alt="aneaser" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneaser&show_icons=true&locale=en" alt="aneaser" /></p>
-
+<div/>
