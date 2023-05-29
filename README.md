@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">AI enthusiast from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneaser&label=Profile%20views&color=0e75b6&style=flat" alt="aneaser" /> </p>
 
